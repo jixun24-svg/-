@@ -1,0 +1,7 @@
+{
+  "name": "麦田云端 · 活力广场",
+  "description": "麦田云端 · 活力广场商业计划书互动展示系统，结合了匹克球运动与新中式茶歇的创新楼顶经济空间。",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
